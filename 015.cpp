@@ -1,4 +1,4 @@
-// Find Players With Zero or One Losses
+// Find Players With Zero or One Lossesf
 
 vector<vector<int>> findWinners(vector<vector<int>> &matches)
 {
